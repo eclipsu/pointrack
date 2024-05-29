@@ -26,7 +26,7 @@ export default function Login() {
       <div>
         <Navbar />
         <div className="mt-24 flex flex-col items-center">
-          <h1 className="text-[32px] font-bold text-[#12235B]">Create Pointrack account</h1>
+          <h1 className="text-[32px] font-bold text-darkblue1">Create Pointrack account</h1>
           <h3 className="text-[18px] text-[#12235B]">Get started for free</h3>
           <div className="border border-[#162E82] flex items-center justify-center w-[446px] h-[48px] mt-6 mb-4 p-2 rounded-[6px] cursor-pointer hover:bg-gray-100">
             <GoogleIcon />
