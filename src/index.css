@@ -1,3 +1,23 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: "Gully-Medium";
+  src: url("./assets/Fonts/Gully-Medium.ttf");
+}
+
+@font-face {
+  font-family: "Gully-Bold";
+  src: url("./assets/Fonts/Gully-Bold.ttf");
+}
+
+@font-face {
+  font-family: "Gully-Regular";
+  src: url("./assets/Fonts/Gully-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Gully-Light";
+  src: url("./assets/Fonts/Gully-Light.ttf");
+}
