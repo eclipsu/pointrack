@@ -9,6 +9,11 @@ export default {
         "gully-thin": ["Gully-Thin"],
         "gully-light": ["Gully-Light"],
       },
+      colors: {
+        primary: "#4A69FF",
+        darkblue1: "#12235B",
+        darkblue2: "#162E82",
+      },
     },
   },
   plugins: [],
